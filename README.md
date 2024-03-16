@@ -6,7 +6,7 @@ This project aims to decode customers' purchase intents on an online shopping pl
 
 # Objectives:
 1. Analyze user behavior data to uncover patterns and insights related to purchasing intentions.
-2. Develop predictive models to forecast customers' likelihood of making a purchase.
+2. Develop predictive models to predict customers' likelihood of making a purchase.
 3. Evaluate the performance of various classification algorithms in predicting purchase intents.
 4. Utilize techniques such as Log-transforming Skewed Variables, Principal Component Analysis, and SMOTE to preprocess data and enhance model accuracy.
 
